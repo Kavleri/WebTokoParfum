@@ -1,21 +1,35 @@
-MIT License
+---
 
-Copyright (c) 2025 Hisyam
+**PERNYATAAN HAK CIPTA DAN LISENSI PEMBATASAN UNTUK APLIKASI WEB AA PARFUM**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**Copyright (c) 2025 Kavleri(Hisyam). Hak Cipta Dilindungi Undang-Undang.**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**1. Hak Cipta dan Kepemilikan:**
+Seluruh kode sumber, desain grafis, aset multimedia, struktur *database*, dan konten lain yang membentuk aplikasi web "AA Parfum" ini adalah kekayaan intelektual eksklusif dari [Nama Lengkap Anda atau Nama Perusahaan Anda] dan dilindungi secara penuh oleh undang-undang hak cipta domestik dan internasional. Semua hak yang tidak secara eksplisit diberikan dalam dokumen ini tetap menjadi hak penuh Pemegang Hak Cipta.
+
+**2. Tujuan Repositori:**
+Repositori GitHub ini (`https://github.com/Kavleri/WebTokoParfum`) disediakan untuk tujuan demonstrasi, inspeksi, dan referensi akademik non-komersial saja. Pembaca dan pengembang dapat mempelajari arsitektur dan implementasi kode PHP *native* yang digunakan dalam proyek ini.
+
+**3. Larangan Penggunaan, Modifikasi, dan Distribusi:**
+**Tidak ada bagian dari kode sumber, desain, atau aset lain yang terkandung dalam repositori ini yang boleh:**
+    a. Direproduksi (baik sebagian maupun seluruhnya).
+    b. Dimodifikasi atau diadaptasi.
+    c. Didistribusikan, disublisensikan, atau dipublikasikan.
+    d. Dijual, disewakan, atau dilisensikan ulang.
+    e. Digunakan untuk pengembangan produk atau layanan lain.
+    f. Di-deploy atau dijalankan di lingkungan *production* atau komersial.
+    g. Digunakan untuk tujuan komersial atau non-komersial di luar lingkup studi pribadi dan referensi.
+**Tanpa izin tertulis sebelumnya dari [Nama Lengkap Anda atau Nama Perusahaan Anda].**
+
+**4. Pelanggaran:**
+Setiap tindakan yang melanggar ketentuan lisensi ini akan dianggap sebagai pelanggaran hak cipta dan dapat dikenakan sanksi hukum sesuai dengan undang-undang yang berlaku.
+
+**5. Tanpa Jaminan (Disclaimer of Warranty):**
+Kode ini disediakan "APA ADANYA", tanpa jaminan dalam bentuk apa pun, baik tersurat maupun tersirat, termasuk namun tidak terbatas pada jaminan kelayakan untuk diperdagangkan, kesesuaian untuk tujuan tertentu, dan non-pelanggaran. Pemegang Hak Cipta tidak menjamin bahwa fungsi-fungsi yang terkandung dalam kode ini akan tidak terganggu atau bebas dari kesalahan, atau bahwa cacat akan diperbaiki.
+
+**6. Batasan Tanggung Jawab (Limitation of Liability):**
+Dalam keadaan apa pun Pemegang Hak Cipta tidak bertanggung jawab atas klaim, kerusakan, atau kewajiban lain apa pun, baik dalam tindakan kontrak, kesalahan (tort), atau lainnya, yang timbul dari, atau sehubungan dengan, penggunaan atau kinerja kode ini, bahkan jika diberitahu tentang kemungkinan kerusakan tersebut.
+
+---
