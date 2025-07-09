@@ -87,7 +87,7 @@ Informasi lebih lanjut mengenai syarat dan ketentuan hak cipta dapat ditemukan d
 
 Untuk pertanyaan, kolaborasi, atau izin penggunaan khusus, silakan hubungi melalui:
 
-* **Situs Web:** (Klik disini untuk melihat)[`https://myweb2.wuaze.com`]
+* **Situs Web:** [Klik disini untuk melihat](https://myweb2.wuaze.com)
 * **Email:** `aaparfumofficialstore@gmail.com` 
 
 ---
