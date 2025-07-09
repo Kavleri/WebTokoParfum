@@ -43,7 +43,7 @@ Untuk mengimplementasikan aplikasi ini di lingkungan pengembangan atau *staging*
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone [https://github.com/Kavleri/WebTokoParfum.git](https://github.com/Kavleri/WebTokoParfum.git)
+    git clone https://github.com/Kavleri/WebTokoParfum.git
     ```
 2.  **Penempatan Direktori Aplikasi:**
     Pindahkan direktori `WebTokoParfum` ke *document root* server web Anda (misalnya, `htdocs` untuk Apache/XAMPP, `www` untuk WAMP, atau `/var/www/html` untuk lingkungan Linux).
