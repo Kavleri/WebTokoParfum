@@ -71,7 +71,7 @@ Meskipun fondasi kode telah dirancang dengan memperhatikan keamanan, keberlanjut
 
 ## Hak Cipta & Lisensi
 
-© 2025 Muhammad Hisyam ALfaris. Semua Hak Cipta Dilindungi Undang-Undang.
+© 2025 Muhammad Hisyam. Semua Hak Cipta Dilindungi Undang-Undang.
 
 Aplikasi web ini beserta seluruh kode sumber, desain, dan konten terkait merupakan kekayaan intelektual pribadi dan dilindungi sepenuhnya di bawah undang-undang hak cipta yang berlaku.
 
