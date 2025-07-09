@@ -91,3 +91,5 @@ Untuk pertanyaan, kolaborasi, atau izin penggunaan khusus, silakan hubungi melal
 * **Email:** `aaparfumofficialstore@gmail.com` 
 
 ---
+
+<i>Catatan: Repositori ini sepenuhnya belum mewakili seluruh file dalam website, demi mencegah dari terjadinya kebocoran data pribadi </i>
